@@ -1,5 +1,5 @@
 {
     "gitbook": ">=2.0.0",
-    "title": "http2讲解",
+    "title": "Gradle用户指南",
     "plugins": ["-sharing","-search"]
 }
